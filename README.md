@@ -1,5 +1,6 @@
 # Cosmic-Speed
 Zręcznościowa strzelanka stworzona w Unity. Zadaniem gracza jest unikanie asteroid i jak najdłuższe przetrwanie w kosmosie.
+An arcade shooter created in Unity. The player must avoid asteroids and survive as long as possible in space.
 
 ![Zrzut ekranu (8)](https://user-images.githubusercontent.com/50916692/212668764-61de666a-29ff-4d5a-879e-f4dad15cf4e9.png)
 ![Zrzut ekranu (9)](https://user-images.githubusercontent.com/50916692/212668798-e52b3451-b10b-4643-bdf0-a44b18668a7b.png)
